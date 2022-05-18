@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    font-family: 'Arial', sans-serif;
+    color: #6e7b8c;
+    font-size: 2em;
+}
+
+
+a, img {
+    border: 0;
+    margin: 0;
+}
+
+
+#voltar {
+    border: 1px;
+    width: fit-content;
+}
+
+
+
